@@ -13,6 +13,9 @@ Each job can be configured with one Gerrit server.
 
 ## Maintainers
 
+* Sunjoo Park
+  - all4dich@gmail.com
+  
 * Robert Sandell
   - robert.sandell@cloudbees.com
   - sandell.robert@gmail.com
